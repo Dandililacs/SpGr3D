@@ -18,4 +18,6 @@
 
 
 <h2>The Issues...</h2>
-<p>When it comes to measuring specific gravity, you first need a device that will let you measure its weight in water and its weight in air. Now, I have a baking scale at home, but that doesn't quite fufil the job as well as I would like. For one, it is incredibly bulky to bring on me for my hikes where I'll typically want to pack light and can't measure its weight in water properly. Looking outside of baking scales, specific gravity measures usually range well above $100 in price and only have small hydrometers (not able to measure sizable rocks properly) available for use</p>
+<p>When it comes to measuring specific gravity, you first need a device that will let you measure its weight in water and its weight in air. Now, I have a baking scale at home, but that doesn't quite fufil the job as well as I would like. For one, it is incredibly bulky to bring on me for my hikes where I'll typically want to pack light and can't measure its weight in water properly. Looking outside of baking scales, specific gravity measures usually range well above $100 in price and only have small hydrometers (tupically meant for liquid and not able to measure sizable rocks properly) available for use.</p>
+<img src="NoSpGr.png">
+<p>Now it's time to build a more accessable and portable device... follow the journey in my <a href="2journal.md">journal</a>!!!</p>
